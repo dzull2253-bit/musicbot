@@ -2,7 +2,7 @@
   "name": "discord-music-bot",
   "version": "1.0.0",
   "description": "Discord Music Bot with YouTube & Spotify support",
-  "main": "index.js",
+  "master": "index.js",
   "scripts": {
     "start": "npm init -y",
     "start": "node index.js",
